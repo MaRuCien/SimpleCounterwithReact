@@ -1,0 +1,16 @@
+.contenedor {
+    display: center;
+    text-align: center;
+    background-color: rgb(20, 20, 20);
+}
+
+.contenedor div {
+    display: inline-block;
+    font-size: 80px;
+    line-height: 60px;
+    background: rgb(20, 20, 20);
+    color: white;
+    padding: 20px;
+}
+
+
